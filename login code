@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<link rel="icon" href="srlogo.jpg">
+<style>
+body{
+background-color:lavender;}
+input.largerCheckbox{
+     width: 200px;
+     height:20px;
+}
+.button{
+     border-radius:15px;
+     background:grey;
+     color:white;
+     padding:20px;
+     width:75px;
+     height:40px;
+     box-shadow:5px 5px 5px grey;
+     text-align: center;
+}
+</style>
+<title>SR-MART.Login</title>
+</head>
+<body>
+<table style="width: 100%; height: 100% border="3px" bordercolor="red">
+<caption><h2><u>LOGIN DETAILS</u></h2></caption>
+<tr>
+<th>
+<form action="hci.html" method="get">
+<center><img src="welcome.png"></center>
+<center><img src="sr.png"></center>
+<label><font size="+3">Mobile number</font></label>
+<input type="tel" class="largerCheckbox" name="mno" pattern="[0-9]{10}" required placeholder="enter only 10 digits"><br>
+<label><font size="+3">Password</font></label>
+<input type="password" class="largerCheckbox" name="pwd" required placeholder="enter ur password" id="p"></br>
+<input type="checkbox" name="SANDY" value="signed"><label>  Keep me signed in.</label><br>
+<br>
+<input type="submit" value="Login" class="button" >
+<br>
+<br>
+or<br>
+<a href="singup.html"><h3 style="color:black;">Create An Account</h3></a>
+</th>
+</tr>
+</body>
+</html>
