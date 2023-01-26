@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<title>Amazon.laptops</title>
+<link rel="icon" href="logo.png">
+</head>
+<body>
+<table border="6px" bordercolor="blue" height="1000px" width="1220px">
+<caption><h2>LAPTOPS</h2></caption>
+<tr>
+<th>Image</th>
+<th>Laptops</th>
+<th>Cost</th>
+<th>Features</th>
+</tr>
+<tr>
+<td>
+<img src="HP.png">
+</td>
+<td>HP Pavilion</td>
+<td>Rs.74,000</td>
+<td>512SSD storage Os:windows colour:white</td>
+<td><a href="bill.html">Buy Now</a></td>
+<td><a href="cart.html">Cart</a></td>
+</tr>
+<tr>
+<td>
+<img src="DELL.png">
+</td>
+<td>Dell</td>
+<td>Rs.80,000</td>
+<td>512GB storage Os:windows colour:Black</td>
+<td><a href="bill.html">Buy Now</a></td>
+<td><a href="cart.html">Cart</a></td>
+</tr>
+<tr>
+<td>
+<img src="Mackbook.png">
+</td>
+<td>MackBook</td>
+<td>Rs.1,90,900</td>
+<td>256SSD storage Os:MacOS colour:Gold</td>
+<td><a href="bill.html">Buy Now</a></td>
+<td><a href="cart.html">Cart</a></td>
+</tr>
+</body>
+</html>
