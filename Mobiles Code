@@ -1,0 +1,106 @@
+<html>
+    <head>
+<title>Mobiles</title>
+<style>
+    <style type="text/css"> 
+        div{
+            box-shadow:5px 5px 5px grey;
+            height:150px;
+            width: 20px;
+        }
+        .container {
+            width:680px;
+            height:190px;
+            background-color:white;
+            padding-top:20px;
+            padding-left:15px;
+            padding-right:15px;
+            
+        }
+        #st-box {
+            float:left;
+            width:250px;
+            height:500px;
+            background-color:white;
+            border:solid black;
+            border-radius: 20px;
+            
+            
+        }
+        #nd-box {
+            float:left;
+            width:250px;
+            height:500px;
+            background-color:white; 
+            border:solid black;
+            border-radius: 20px;
+            margin-left:20px;
+           
+        }
+        #rd-box {
+            float:right;
+            width:250px;
+            height:500px;
+            background-color:white;
+            border:solid black;
+            border-radius: 20px;
+        }
+        h1 {
+            color:Green;
+        }
+.container{
+    display: flex;
+}
+.container .card{
+    width: 25%;
+    height: 300px;
+    border: 1px solid black;
+}
+</style>
+    </head>
+    <body>
+        <center> 
+            <h1>MOBILES</h1>
+              
+            <div class="container">
+                <div id="st-box">
+                    <img src="iphone13.png">
+                    Iphone 13<br>
+                    Rs.1,04,900<br>
+                    <h2>Highlights</h2> &#8728;128 GB ROM<br>
+                    &#8728;15.49 cm (6.1 inch) <br>Super Retina XDR Display<br>
+                    &#8728;12MP + 12MP | 12MP Front Camera<br>
+                    &#8728;A15 Bionic Chip Processor<br><br>
+                    <a href="bill.html">Buy Now</a><br><br>
+                    <a href="cart.html">Cart</a><br>
+                    <a href="C:\Users\SANDY\OneDrive\Desktop\HCI project\hci.html">For More Mobiles</a>
+                </div>
+                  
+                <div id="nd-box">
+                    <img src="iphone12.png">
+                    Iphone 12<br>
+                    Rs.80,000<br>
+                    <h2>Highlights</h2>&#8728;128GB storage<br>
+                    &#8728;Os:IOS15<br>
+                    &#8728;colour:Black<br><br>
+                    <a href="bill.html">Buy Now</a><br><br>
+                    <a href="cart.html">Cart</a><br><br>
+                    <a href="C:\Users\SANDY\OneDrive\Desktop\HCI project\hci.html">For More Mobiles</a>
+                </div>
+                  
+                <div id="nd-box">
+                    <img src="iphone11.png">
+                    Iphone 11<br>
+                    Rs.50,000<br>
+                    <h2>Highlights</h2>&#8728;64GB storage<br>
+                    &#8728;Os:IOS14<br>
+                    &#8728;colour:purple<br><br>
+                    <a href="bill.html">Buy Now</a><br><br>
+                    <a href="cart.html">Cart</a><br><br>
+                    <a href="C:\Users\SANDY\OneDrive\Desktop\HCI project\hci.html">For More Mobiles</a>
+
+                </div>
+            </div>
+            </center>
+    </body>
+</html>
