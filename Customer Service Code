@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+<style>
+body{
+background-color:lavender;}
+</style>
+<title>SR-MART.Contact</title>
+<link rel="icon" href="logo.png">
+</head>
+<body>
+<table style="width: 100%; height: 100% border="6px" bordercolor="black">
+<caption><h2>Customer Service</h2></caption>
+<th colspan="2">
+<center><h2>Want to chat now or get a call from us?</h2></center>
+<tr>
+<td><center><u><b><h2>Chat right now</h2></b></u></center><br>
+<center><h3>Our messaging assistant can quickly solve<br> many issues or direct you to the right person <br>or place.</h3><br>
+<br>
+Instant chat and always available.</center><br>
+<center><button>Start Chatting</button></center>
+</td>
+<td><center><u><b><h2>Have us call you</h2></b></u></center><br>
+<center><h3>We'll first get a few details about your issue<br> and then someone will call you right away.</h3></center><br>
+<center><button>Call Me</button></center>
+</td>
+</tr>
+</th>
+</td>
+</tr>
+<th colspan="2">
+<h2>Here are a few things you can take care of on your own</h2><br>
+<br>
+<p><img src="box.png">     <img src="manage.png">      <img src="payments.png"></p>
+<p>Check on an order&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manage content&devices&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update payment info</p>
+</th>
+</body>
+</html>
