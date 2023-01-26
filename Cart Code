@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<title>SR-Mart.Cart</title>
+<link rel="icon" href="srlogo.jpg">
+</head>
+<body>
+<table style="width: 1220px; height: 100%; border="3px" bordercolor="red">
+<caption><h2><u>CART DETAILS</u></h2></caption>
+<tr>
+<th>
+Your SR-Mart Cart is empty<br>
+<a href="file:///C:/Users/SANDY/OneDrive/Desktop/HCI%20project/hci.html?mno=7396888352&pwd=v">Shop today’s deals</a>
+</th>
+</tr>
+</body>
+</html>
