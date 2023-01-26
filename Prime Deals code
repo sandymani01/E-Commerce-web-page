@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title>SR-MART Offers</title>
+<link rel="icon" href="logo.png">
+</head>
+<body>
+<table border="2px"  bordercolor="green">
+<tr>
+<th colspan="30"><h1><u><i>Prime Deals</i></u></h1></th>
+</tr>
+<tr>
+<th colspan="35" ><img src="prime1.png"><img src="prime3.png"></th>
+</tr>  
+<tr>
+<th colspan="30"><h1><u><i>Best Offers</i></u></h1></th>
+</tr>
+<tr>
+<th colspan="35" ><img src="prime2.png"></th>
+</tr>
+</body>
+</html>
