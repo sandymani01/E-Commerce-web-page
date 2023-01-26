@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<title>Amazon.earphones</title>
+<link rel="icon" href="logo.png">
+</head>
+<body>
+<table border="6px" bordercolor="blue" height="1000px" width="1220px">
+<caption><h2>EARPHONES</h2></caption>
+<tr>
+<th>Image</th>
+<th>Earphones</th>
+<th>Cost</th>
+<th>Features</th>
+</tr>
+<tr>
+<td>
+<img src="Nothing.png">
+</td>
+<td>Nothing</td>
+<td>Rs.8,000</td>
+<td> Bluetooth version:v5.2 Battery Life:34hr colour:white</td>
+<td><a href="bill.html">Buy Now</a></td>
+<td><a href="cart.html">Cart</a></td>
+</tr>
+<tr>
+<td>
+<img src="Boat.png">
+</td>
+<td>Boat</td>
+<td>Rs.2,000</td>
+<td>Bluetooth version:v5.1 colour:Black</td>
+<td><a href="bill.html">Buy Now</a></td>
+<td><a href="cart.html">Cart</a></td>
+</tr>
+<tr>
+<td>
+<img src="Airpods.png">
+</td>
+<td>Apple earpods</td>
+<td>Rs.20,000</td>
+<td>bluetooth version V5.2 colour:white</td>
+<td><a href="bill.html">Buy Now</a></td>
+<td><a href="cart.html">Cart</a></td>
+</tr>
+<tr>
+<td>
+<a href="https://www.amazon.in">For More Earphones</a>
+</td>
+</tr>
+</body>
+</html>
