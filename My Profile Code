@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+<title>SR-MART.Account</title>
+<link rel="icon" href="srlogo.jpg">
+<link rel="stylesheet" href="phot.css">
+<style>
+body{
+background-color:lightgreen;}
+</style>
+</head>
+<body>
+<form action="logout.html" method="get">
+<table align="left style="width: 100%; height: 100% border="2px"  bordercolor="black">
+<caption><h2><u>Account&Lists</u></h2></caption>
+<tr>
+<th>
+<img src="profile.png"><br>
+Hello,<br> Sr-mart Customer<br>
+<br>
+</th>
+<td>
+<img src="C:\Users\SANDY\Downloads\sr (1).png">
+</td>
+</tr>
+<table align="center" style="width: 100%; height: 100% border="2px"  bordercolor="black"><br>
+<tr>
+<th colspan="3"><a href="orders.html">My Orders</a><br>
+<br>
+</th>
+</tr>
+<tr>
+<th colspan="3"><a href="orders.html"><img src="C:\Users\SANDY\OneDrive\Desktop\HCI project\account.svg"><br>Account Settings</a><br>
+<br>
+</th>
+</tr>
+<tr>
+<th colspan="3"><a href="password.html"><br>Password Settings</a><br>
+</tr>
+<tr>
+<th colspan="3"><a href="payments.html"><img src="C:\Users\SANDY\OneDrive\Desktop\HCI project\Payments.png"><br>Payments</a><br>
+<br>
+</th>
+</tr>
+<tr>
+<th colspan="3"><a href="stuff.html">My Stuff</a><br>
+<br>
+</th>
+</tr>
+<tr>
+<th colspan="3"><a href="orders.html">SR-MART balance</a><br>
+<br>
+</th>
+</tr>
+<tr>
+<th colspan="3"><a href="orders.html">Your Addresses</a><br>
+<br>
+<br>
+<br>
+</th>
+</tr>
+<tr>
+<th>
+<img src="C:\Users\SANDY\OneDrive\Desktop\HCI project\logout.png"><br>
+<input type="submit" value="Logout" class="button" >
+</th>
+</tr>
+</body>
+</html>
