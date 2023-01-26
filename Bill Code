@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<title>SR-MART.Bill</title>
+<link rel="icon" href="srlogo.jpg">
+<link rel="stylesheet" href="photo.css">
+</head>
+<body>
+<table style="width: 100%; height: 100% border="2px"  bordercolor="red">
+<caption><h2><u>BILLING DETAILS</u></h2></caption>
+<th>
+<h3>1.Delivery Address:</h3>
+<input type="textarea" name="ta"></br>
+<br>
+<br>
+2.Select a payment method:<br>
+<br>
+    !As per new RBI guidelines, some of your previously saved cards may no longer be displayed.<br>
+   Please enter your card details again and ensure you give your consent to save it for future payments.<br>
+<br>
+Pay with Debit/Credit/ATM Cards<br>
+<br>
+<br>
+<h3>Net Banking</h3>
+<select name="banks">
+<option value="APB">Airtel Payments Bank</option>
+<option value="AB">Axis Bank</option>
+<option value="HDFC">HDFC Bank</option>
+<option value="ICIC">ICIC Bank</option>
+<option value="ppb">Paytm Payments Bank</option>
+<option value="sbi">State Bank of India</option>
+<option value="AB">Andhra Bank</option>
+<option value="CR">Canara Bank</option>
+<option value="CBI">Central Bank of india</option>
+</select><br>
+<br>
+  !For faster payment and instant refund, please use UP<br>
+<br>
+<br>
+<input type="checkbox" name="SANDY" value="signed"><label>other upi apps</label><br>
+<br>
+Please enter your UPI ID<br>
+<input type="other upi apps" name="pwd" id="p">
+<input type="submit" value="Verify">
+<br>
+<br>
+<input type="checkbox" name="SANDY" value="signed"><label>Pay on Delivery</label><br>
+<br>
+<br>
+<br>
+<button>Place Order</button>
+<br>
+<br>
+<br>
+
+</th>
+</body>
+</html>
